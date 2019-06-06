@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#F75355</color>
+    <color name="red_pink">#F62459</color>
+    <color name="green">#56B74E</color>
+    <color name="blue">#5890FF</color>
+    <color name="violet">#B388FF</color>
+    <color name="yellow">#FFB300</color>
+    <color name="orange">#FC700B</color>
+    <color name="light_green">#5EC2B1</color>
+    <color name="cell_default_bg">#FFFFFF</color>
+    <color name="color_overlay">#80000000</color>
+
+    <color name="textColor">#DE000000</color>
+    <color name="backgroundColor">#FFFF</color>
+    <color name="highlightColor">#11000000</color>
+
+    <color name="themeFifty">#7F000000</color>
+    <color name="white_dialog">#FAFAFA</color>
+
+    <color name="RRM">#FF6D00</color>
+    <color name="AFM">#EC407A</color>
+    <color name="OSM">#00BCD4</color>
+    <color name="OFM">#B388FF</color>
+    <color name="PAM">#F75355</color>
+    <color name="CDM">#1E88E5</color>
+    <color name="MAM">#4CAF50</color>
+    <color name="CLM">#4DB6AC</color>
+    <color name="QTM">#FFB300</color>
+    <color name="RPM">#8BC34A</color>
+    <color name="STM">#546E7A</color>
+    <color name="TTM">#B388FF</color>
+
+    <color name="WLM">#3949AB</color>
+
+    <color name="LogError">#F75355</color>
+    <color name="LogDebug">#56B74E</color>
+    <color name="LogInfo">#5890FF</color>
+    <color name="LogWarning">#FFB300</color>
+
+</resources>
